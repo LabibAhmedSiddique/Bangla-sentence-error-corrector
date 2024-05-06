@@ -103,3 +103,4 @@ I am yet to learn and explore more on the field of nlp as I believe My lack of k
  1. Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!! [\[Link\]](https://www.youtube.com/watch?v=L8HKweZIOmg)
  2. টেন্সরফ্লো দিয়ে সহজ বাংলায় 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং [\[Link\]](https://github.com/raqueeb/nlp_bangla/tree/master)
  3. A ten-minute introduction to sequence-to-sequence learning in Keras[\[Link\]](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+ 4. Anomaly Detection in NLP Using Levenshtein Distance[\[Link\]](https://medium.com/munchy-bytes/anomaly-detection-in-nlp-using-levenshtein-distance-62351639d189)
